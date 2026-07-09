@@ -60,3 +60,47 @@ You can request deletion of your stored data at any time by using the `/unregist
 ### Contact
 
 If you have questions or want to manually request data deletion, contact the bot owner via Discord.
+
+---
+
+## Terms of Service
+
+_Last updated: July 9, 2026_
+
+### Foreword
+All mentions of "bot owner" refer to the Roblox group "Generic Incremental Group". For any inquiries, contact the bot developer directly via Discord at hattapper.
+
+### 1. Acceptance
+By using the Bloxware Discord Bot, you agree to these Terms of Service. If you do not agree, do not use the bot.
+
+### 2. Eligibility
+Use of the bot is restricted to members of the Bloxware: Roblox Microgames Discord server. The bot is not a public service and may not be added to other servers.
+
+### 3. Acceptable Use
+You agree not to:
+- Abuse or spam bot commands
+- Attempt to exploit, manipulate, or break the bot's functionality
+- Submit false or misleading bug reports
+- Register a Roblox account that is not your own
+- Use the bot in any way that violates Discord's Terms of Service or Roblox's Terms of Use
+
+### 4. Account Linking
+By using `/register_id`, you confirm that the Roblox account you are linking belongs to you. Linking an account that is not yours is a violation of these terms and may result in removal from the service.
+
+### 5. Donations
+Donation data processed by the bot reflects purchases made through the in-game donation board in Bloxware: Roblox Microgames. All purchases are final and subject to Roblox's own payment and refund policies. The bot owner is not responsible for failed or missing donation records caused by issues outside the bot's control.
+
+### 6. Termination
+The bot owner reserves the right to restrict or revoke any user's access to the bot at any time, for any reason, without prior notice.
+
+### 7. Availability
+The bot is provided as-is with no guarantee of uptime or continued availability. The service may be modified, suspended, or discontinued at any time.
+
+### 8. Limitation of Liability
+The bot owner is not liable for any loss or damage arising from your use of the bot, including but not limited to data loss, missed donations, or service interruptions.
+
+### 9. Changes to These Terms
+These terms may be updated at any time. Continued use of the bot after changes are posted constitutes acceptance of the revised terms.
+
+### Contact
+For questions regarding these terms, contact the bot developer via Discord at hattapper.
