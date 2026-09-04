@@ -50,7 +50,7 @@ If you would like to know exactly what data we have stored about you, you may re
 ### Third-party services
 
 The bot communicates with:
-- **Roblox APIs** (`users.roblox.com`, `apis.roblox.com`) to fetch profile and datastore data. Requests are subject to [Roblox's Privacy Policy](https://en.help.roblox.com/hc/en-us/articles/115004630823).
+- **Roblox APIs** (`OAuth 2.0`, `apis.roblox.com`) to fetch profile and datastore data. Requests are subject to [Roblox's Privacy Policy](https://en.help.roblox.com/hc/en-us/articles/115004630823).
 - **Discord's API**, subject to [Discord's Privacy Policy](https://discord.com/privacy).
 
 ### Your rights
