@@ -5,7 +5,7 @@ Discord Bot for the Roblox Discord server related to Bloxware: Roblox Microgames
 
 ## Privacy Policy
 
-_Last updated: July 9, 2026_
+_Last updated: September 3rd, 2026_
 
 ### Foreword
 All mentions of "bot owner" directly refer to the Roblox group "Generic Incremental Group". For any data inquiries or requests,
