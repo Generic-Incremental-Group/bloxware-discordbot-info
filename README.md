@@ -5,11 +5,13 @@ Discord Bot for the Roblox Discord server related to Bloxware: Roblox Microgames
 
 ## Privacy Policy
 
-_Last updated: September 3rd, 2026_
+_Last updated: September 4th, 2026_
 
 ### Foreword
 All mentions of "bot owner" directly refer to the Roblox group "Generic Incremental Group". For any data inquiries or requests,
 contact the bot developer directly via Discord at hattapper.
+
+All mentions of "bot" and "application" refer to the Discord Application under the handle `Bloxware Bot#1610`
 
 ### What data we collect
 
@@ -30,6 +32,11 @@ This data is fetched in real time and is never stored by the bot.
 When you purchase a donation developer product, a real time message is sent to the bot containing the Roblox account ID along with the amount donated.
 If you have a registered account with the bot, the bot will add the donated amount to your total stored donation amount.
 
+When you join a server that uses this application, we use the member join event exposed by Discord to send members an onboarding welcome message.
+None of the data associated with this event is stored directly.
+
+The bot maintains server-side logs for diagnostic purposes. Logs are rotated weekly and older logs are deleted automatically.
+
 ### Why we collect it
 
 Your Discord and Roblox user IDs are collected solely to link your accounts for the bot's features (e.g. `/get_player_information`). Guild settings are collected to allow server administrators to configure the bot's behavior in their server. It is also necessary for the bot to determine the Discord account of the player that purchased a donation.
@@ -44,6 +51,8 @@ Account links (Discord ID ↔ Roblox ID) and donation totals are stored indefini
 ### Who has access
 
 Stored data is only accessible to the bot and its owner/developers. We do not sell, share, or transmit your data to any third party.
+
+Logs are only accessible to the bot and its owner/developers. We do not sell, share, or transmit logs to any third party.
 
 If you would like to know exactly what data we have stored about you, you may request it by contacting the bot owner via Discord. Any such information will only be shared directly with the requesting user and with no one else.
 
@@ -65,10 +74,12 @@ If you have questions or want to manually request data deletion, contact the bot
 
 ## Terms of Service
 
-_Last updated: July 9, 2026_
+_Last updated: September 4th, 2026_
 
 ### Foreword
 All mentions of "bot owner" refer to the Roblox group "Generic Incremental Group". For any inquiries, contact the bot developer directly via Discord at hattapper.
+
+All mentions of "bot" and "application" refer to the Discord Application under the handle `Bloxware Bot#1610`
 
 ### 1. Acceptance
 By using the Bloxware Discord Bot, you agree to these Terms of Service. If you do not agree, do not use the bot.
@@ -85,7 +96,7 @@ You agree not to:
 - Use the bot in any way that violates Discord's Terms of Service or Roblox's Terms of Use
 
 ### 4. Account Linking
-By using `/register_id`, you confirm that the Roblox account you are linking belongs to you. Linking an account that is not yours is a violation of these terms and may result in removal from the service.
+By using `/verify`, you confirm that the Roblox account you are linking belongs to you. Linking an account that is not yours is a violation of these terms and may result in removal from the service.
 
 ### 5. Donations
 Donation data processed by the bot reflects purchases made through the in-game donation board in Bloxware: Roblox Microgames. All purchases are final and subject to Roblox's own payment and refund policies. The bot owner is not responsible for failed or missing donation records caused by issues outside the bot's control.
