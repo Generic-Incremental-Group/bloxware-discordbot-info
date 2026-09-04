@@ -13,7 +13,7 @@ contact the bot developer directly via Discord at hattapper.
 
 ### What data we collect
 
-When you use the `/register_id` command, we store:
+When you use the `/verify` command, we store:
 - Your **Discord user ID**
 - Your **Roblox user ID**
 - Your **total donations** in Robux purchased through the donation board present in the Bloxware: Roblox Microgames game
@@ -22,7 +22,7 @@ When server administrators configure the bot, we store:
 - **Guild (server) IDs** and associated **channel IDs** for bug reports and system messages
 - A boolean flag per guild for the startup greeting setting
 
-During the `/register_id` verification process, the bot temporarily reads your Roblox profile description to check for a verification code. This description is **not stored**.
+During the `/verify` verification process, the bot utilizes the Roblox OAuth 2.0 flow to link your profiles.
 
 When using `/get_player_information`, the bot temporarily accesses your datastore data within the Bloxware: Roblox Microgames game in order to display it.
 This data is fetched in real time and is never stored by the bot.
